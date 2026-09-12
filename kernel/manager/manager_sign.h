@@ -1,8 +1,8 @@
 #ifndef MANAGER_SIGN_H
 #define MANAGER_SIGN_H
 
-#define EXPECTED_SIZE_XINGMENG 0x2B6
-#define EXPECTED_HASH_XINGMENG "6f9df068cc63cfbe3ab3563e304101aa37ba0d06f36dbdf87eca7b50580fc8ef"
+#define EXPECTED_SIZE_XINGMENG 0x4A3
+#define EXPECTED_HASH_XINGMENG "3ade0f6004cf58d6cd14accdae5ac08f9c598dba42408f764156461ec4f3b290"
 
 typedef struct {
     unsigned size;
